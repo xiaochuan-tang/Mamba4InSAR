@@ -1,0 +1,210 @@
+Epoch 1
+Avg Period Loss: 0.427190
+Avg Trend Loss: 0.016373
+Avg Total Loss: 0.428344
+Avg Final Loss: 0.536555
+Avg Vali Loss: 0.856760
+
+Epoch 2
+Avg Period Loss: 0.401741
+Avg Trend Loss: 0.009449
+Avg Total Loss: 0.402013
+Avg Final Loss: 0.479984
+Avg Vali Loss: 0.938230
+
+Epoch 3
+Avg Period Loss: 0.388501
+Avg Trend Loss: 0.008086
+Avg Total Loss: 0.388813
+Avg Final Loss: 0.460007
+Avg Vali Loss: 0.881702
+
+Epoch 4
+Avg Period Loss: 0.378655
+Avg Trend Loss: 0.007353
+Avg Total Loss: 0.378949
+Avg Final Loss: 0.446229
+Avg Vali Loss: 0.864690
+
+Epoch 5
+Avg Period Loss: 0.372204
+Avg Trend Loss: 0.007002
+Avg Total Loss: 0.372443
+Avg Final Loss: 0.437672
+Avg Vali Loss: 0.846512
+
+Epoch 6
+Avg Period Loss: 0.366884
+Avg Trend Loss: 0.006479
+Avg Total Loss: 0.367092
+Avg Final Loss: 0.429695
+Avg Vali Loss: 0.845341
+
+Epoch 7
+Avg Period Loss: 0.363158
+Avg Trend Loss: 0.006180
+Avg Total Loss: 0.363386
+Avg Final Loss: 0.424423
+Avg Vali Loss: 0.869095
+
+Epoch 8
+Avg Period Loss: 0.360125
+Avg Trend Loss: 0.005819
+Avg Total Loss: 0.360326
+Avg Final Loss: 0.419613
+Avg Vali Loss: 0.870470
+
+Epoch 9
+Avg Period Loss: 0.358045
+Avg Trend Loss: 0.005639
+Avg Total Loss: 0.358339
+Avg Final Loss: 0.416699
+Avg Vali Loss: 0.861693
+
+Epoch 10
+Avg Period Loss: 0.356401
+Avg Trend Loss: 0.005475
+Avg Total Loss: 0.356594
+Avg Final Loss: 0.414135
+Avg Vali Loss: 0.858968
+
+Epoch 1
+Avg Period Loss: 0.427190
+Avg Trend Loss: 0.016373
+Avg Total Loss: 0.428344
+Avg Final Loss: 0.536555
+Avg Vali Loss: 0.815285
+
+Epoch 2
+Avg Period Loss: 0.401741
+Avg Trend Loss: 0.009449
+Avg Total Loss: 0.402013
+Avg Final Loss: 0.479984
+Avg Vali Loss: 0.850446
+
+Epoch 3
+Avg Period Loss: 0.388469
+Avg Trend Loss: 0.008086
+Avg Total Loss: 0.388786
+Avg Final Loss: 0.459977
+Avg Vali Loss: 0.829168
+
+Epoch 4
+Avg Period Loss: 0.378692
+Avg Trend Loss: 0.007353
+Avg Total Loss: 0.378987
+Avg Final Loss: 0.446270
+Avg Vali Loss: 0.808166
+
+Epoch 5
+Avg Period Loss: 0.372283
+Avg Trend Loss: 0.007002
+Avg Total Loss: 0.372525
+Avg Final Loss: 0.437762
+Avg Vali Loss: 0.794576
+
+Epoch 6
+Avg Period Loss: 0.366933
+Avg Trend Loss: 0.006479
+Avg Total Loss: 0.367141
+Avg Final Loss: 0.429748
+Avg Vali Loss: 0.807671
+
+Epoch 7
+Avg Period Loss: 0.363204
+Avg Trend Loss: 0.006180
+Avg Total Loss: 0.363430
+Avg Final Loss: 0.424471
+Avg Vali Loss: 0.822562
+
+Epoch 8
+Avg Period Loss: 0.360189
+Avg Trend Loss: 0.005819
+Avg Total Loss: 0.360394
+Avg Final Loss: 0.419687
+Avg Vali Loss: 0.834556
+
+Epoch 9
+Avg Period Loss: 0.358107
+Avg Trend Loss: 0.005639
+Avg Total Loss: 0.358398
+Avg Final Loss: 0.416765
+Avg Vali Loss: 0.822252
+
+Epoch 10
+Avg Period Loss: 0.356463
+Avg Trend Loss: 0.005475
+Avg Total Loss: 0.356656
+Avg Final Loss: 0.414204
+Avg Vali Loss: 0.820020
+
+Epoch 1
+Avg Period Loss: 0.427190
+Avg Trend Loss: 0.016373
+Avg Total Loss: 0.428344
+Avg Final Loss: 0.536555
+Avg Vali Loss: 0.815285
+
+Epoch 2
+Avg Period Loss: 0.401741
+Avg Trend Loss: 0.009449
+Avg Total Loss: 0.402013
+Avg Final Loss: 0.479984
+Avg Vali Loss: 0.850447
+
+Epoch 3
+Avg Period Loss: 0.388400
+Avg Trend Loss: 0.008086
+Avg Total Loss: 0.388714
+Avg Final Loss: 0.459898
+Avg Vali Loss: 0.830768
+
+Epoch 4
+Avg Period Loss: 0.378685
+Avg Trend Loss: 0.007353
+Avg Total Loss: 0.378979
+Avg Final Loss: 0.446262
+Avg Vali Loss: 0.810029
+
+Epoch 5
+Avg Period Loss: 0.372222
+Avg Trend Loss: 0.007002
+Avg Total Loss: 0.372460
+Avg Final Loss: 0.437690
+Avg Vali Loss: 0.795037
+
+Epoch 6
+Avg Period Loss: 0.366891
+Avg Trend Loss: 0.006479
+Avg Total Loss: 0.367100
+Avg Final Loss: 0.429703
+Avg Vali Loss: 0.809277
+
+Epoch 7
+Avg Period Loss: 0.363168
+Avg Trend Loss: 0.006180
+Avg Total Loss: 0.363398
+Avg Final Loss: 0.424436
+Avg Vali Loss: 0.823978
+
+Epoch 8
+Avg Period Loss: 0.360177
+Avg Trend Loss: 0.005819
+Avg Total Loss: 0.360380
+Avg Final Loss: 0.419672
+Avg Vali Loss: 0.834473
+
+Epoch 9
+Avg Period Loss: 0.358077
+Avg Trend Loss: 0.005639
+Avg Total Loss: 0.358368
+Avg Final Loss: 0.416731
+Avg Vali Loss: 0.822620
+
+Epoch 10
+Avg Period Loss: 0.356438
+Avg Trend Loss: 0.005475
+Avg Total Loss: 0.356631
+Avg Final Loss: 0.414176
+Avg Vali Loss: 0.820129
+
